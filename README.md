@@ -1,7 +1,7 @@
 # Event Management System
 IIITA | DBMS Project '22
 
-** Installtion and Instructions
+## Installtion and Instructions
 1. First Download XAMPP (preferable version 7)
 
 2. Copy "Event_Management_System" folder
@@ -25,9 +25,11 @@ IIITA | DBMS Project '22
 
 ### LOGIN DETAILS
 Admin
-user: admin
-pass: admin123
 
+user: admin
+
+pass: admin123
+### Notes
 
 - add venues and create event from admin side to see the functionality of the website
 - audeince can book venue or/and register for events once admin create venue and events
